@@ -1,4 +1,4 @@
-package design.propia.cryptoapp.ui.theme
+package design.propia.cryptoapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

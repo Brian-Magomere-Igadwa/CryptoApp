@@ -1,4 +1,4 @@
-package design.propia.cryptoapp
+package design.propia.cryptoapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import design.propia.cryptoapp.ui.theme.CryptoAppTheme
+import design.propia.cryptoapp.presentation.ui.theme.CryptoAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
